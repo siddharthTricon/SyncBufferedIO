@@ -1,0 +1,1 @@
+This is some default text written to resource_file.txt.
